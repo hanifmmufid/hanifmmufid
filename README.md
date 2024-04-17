@@ -14,4 +14,5 @@ What I'm currently learning 🧠
 | ![scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |  | | ![github](https://img.shields.io/badge/GitHub_Actions-181717?style=flat-square&logo=github&logoColor=white)| ![postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  |
 | ![sql](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) | | | ![devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) |  |
 | ![r](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)| | | | |
+
 View my pinned projects 👇
